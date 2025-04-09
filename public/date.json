@@ -1,0 +1,59 @@
+{
+    "bidItems": [
+      {
+        "id": "1",
+        "title": "Apple iPhone 14 Pro",
+        "description": "Brand new iPhone 14 Pro, 128GB, Deep Purple. Factory sealed.",
+        "currentBidPrice": 850.00,
+        "timeLeft": "2d 4h 30m",
+        "bidsCount": 14,
+        "image": "https://example.com/images/iphone14pro.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Vintage Rolex Submariner",
+        "description": "Authentic Rolex Submariner, 1980s model, well-maintained.",
+        "currentBidPrice": 5200.00,
+        "timeLeft": "1d 12h 5m",
+        "bidsCount": 27,
+        "image": "https://example.com/images/rolex_submariner.jpg"
+      },
+      {
+        "id": "3",
+        "title": "Gaming Laptop - ASUS ROG Strix",
+        "description": "ASUS ROG Strix G15, Ryzen 9, RTX 4070, 16GB RAM, 1TB SSD.",
+        "currentBidPrice": 1350.50,
+        "timeLeft": "3d 18h 45m",
+        "bidsCount": 33,
+        "image": "https://example.com/images/asus_rog_strix.jpg"
+      },
+      {
+        "id": "4",
+        "title": "Yamaha Acoustic Guitar FG800",
+        "description": "Yamaha FG800 acoustic guitar in excellent condition, natural finish.",
+        "currentBidPrice": 120.00,
+        "timeLeft": "22h 15m",
+        "bidsCount": 8,
+        "image": "https://example.com/images/yamaha_fg800.jpg"
+      },
+      {
+        "id": "5",
+        "title": "GoPro HERO12 Black",
+        "description": "Latest GoPro HERO12 with accessories. Used once, great condition.",
+        "currentBidPrice": 270.75,
+        "timeLeft": "4d 6h 10m",
+        "bidsCount": 19,
+        "image": "https://example.com/images/gopro_hero12.jpg"
+      },
+      {
+        "id": "6",
+        "title": "LEGO Star Wars Millennium Falcon",
+        "description": "LEGO Star Wars Millennium Falcon set #75192, brand new and sealed.",
+        "currentBidPrice": 675.00,
+        "timeLeft": "5d 2h 50m",
+        "bidsCount": 22,
+        "image": "https://example.com/images/lego_millennium_falcon.jpg"
+      }
+    ]
+  }
+  
