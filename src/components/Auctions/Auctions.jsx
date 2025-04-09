@@ -1,4 +1,5 @@
 import React from "react";
+import Table from "./Table";
 
 const Auctions = () => {
   return (
@@ -10,11 +11,12 @@ const Auctions = () => {
       <div className="grid grid-cols-6 gap-3">
         <div className="col-span-4 ">
           <div className="flex justify-between p-5 border-2 rounded-lg">
-            <h5 className="font-bold">Items</h5>
+            <Table></Table>
+            {/* <h5 className="font-bold">Items</h5>
             <h5 className="font-bold ml-32">Current Bid</h5>
             <h5 className="font-bold">Time Left</h5>
             <h5 className="font-bold">Bid Now</h5>
-            <div className="divider"></div>
+            <div className="divider"></div> */}
           </div>
         </div>
         <div className="col-span-2 border-2 p-3 rounded-lg text-center">
