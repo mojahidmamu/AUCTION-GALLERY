@@ -1,5 +1,5 @@
 import React from 'react';
-import './AuctionTable.css'; // assuming you have some styles
+import './AuctionTable.css';  
 
 const items = [
   { title: "Vintage Leica M3 Camera", bid: "$2,850", time: "2 Days left", image: "📷" },
