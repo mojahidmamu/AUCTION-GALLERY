@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import CoverImg from "../../assets/assets/Banner-min.jpg";
+import Auctions from "../Auctions/Auctions";
 
 const Home = () => {
   return (
@@ -29,30 +30,8 @@ const Home = () => {
           </div>
         </div>
       </div>
-      {/*  */}
-      <div className="m-10 ">
-        <h1 className="font-bold my-3">Active Auctions</h1>
-        <p className="text-gray-400 mb-5">
-          Discover and bid on extraordinary items.
-        </p>
-        <div className="grid grid-cols-6 gap-3">
-          <div className="col-span-4 ">
-            <div className="flex justify-between p-5 pr-10 border-2 rounded-lg">
-              <h5 className="font-bold">Items</h5>
-              <h5 className="font-bold">Current Bid</h5>
-              <h5 className="font-bold">Time Left</h5>
-              <h5 className="font-bold">Bid Now</h5>
-            <div className="divider"></div>
-            </div>
-          </div>
-          <div className="col-span-2">
-            <h3>laskjfdlaksdjf</h3>
-            <h3>laskjfdlaksdjf</h3>
-            <h3>laskjfdlaksdjf</h3>
-            <h3>laskjfdlaksdjf</h3>
-          </div>
-        </div>
-      </div>
+      {/* Auction Table */}
+      <Auctions></Auctions>
     </div>
   );
 };
